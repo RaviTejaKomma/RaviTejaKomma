@@ -10,5 +10,4 @@ Glad to see you here! This is my Github Profile and I breathe ideas and code her
 
 
 <img align="left" alt="Ravi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaviTejaKomma&show_icons=true&hide_border=true&theme=gotham"/>
-
 <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaKomma&custom_title=Languages%20I%20have%20used&layout=compact&theme=gotham&exclude_repo=Apple-Logo-Detection,HackerEarth_MachineLearning_Challenges_Solutions,Complete-Python-3-Bootcamp,Twitter-Sentiment-Analysis,Youtube-Comments-Spam-Detection,Titanic-Kaggle,SMS_Spam_Detectionhide=HTML,Jupyter%20Notebook,CSS&langs_count=5"/>
