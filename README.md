@@ -4,7 +4,7 @@ Glad to see you here! This is my Github Profile and I breathe ideas and code her
 
 - 🔭 I'm currently working as a Software Engineer at Apxor.
 - ⚡ I'm passionate about envisioning and developing great products. 
-- 💬 I love discussing about Business ideas, Product development, Open Source. If you want to discuss any of you can reach out to me at anytime.
+- 💬 I love discussing about Business ideas, Product development, Open Source. If you want to discuss any of them. You can reach out to me anytime.
 - 📫 How to reach me: Find me at - [LinkedIn](https://www.linkedin.com/in/ravitejakomma/), [Instagram](https://www.instagram.com/raviteja_komma/)
 
 
