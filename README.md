@@ -9,7 +9,7 @@ Glad to see you here! This is my Github Profile and I breathe ideas and code her
 - 📫 How to reach me: Find me at - [LinkedIn](https://www.linkedin.com/in/ravitejakomma/)
 
 
-[![Ravi Teja's github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaKomma&layout=compact&theme=gotham&exclude_repo=Apple-Logo-Detection,HackerEarth_MachineLearning_Challenges_Solutions,Complete-Python-3-Bootcamp,Twitter-Sentiment-Analysis,Youtube-Comments-Spam-Detection,Titanic-Kaggle,SMS_Spam_Detectionhide=HTML,Jupyter%20Notebook,CSS&langs_count=5)](https://github.com/RaviTejaKomma/github-readme-stats)
+[![Ravi Teja's github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaKomma&layout=compact&theme=gotham&exclude_repo=Apple-Logo-Detection,HackerEarth_MachineLearning_Challenges_Solutions,Complete-Python-3-Bootcamp,Twitter-Sentiment-Analysis,Youtube-Comments-Spam-Detection,Titanic-Kaggle,SMS_Spam_Detection&hide=HTML,CSS&langs_count=5)](https://github.com/RaviTejaKomma/github-readme-stats)
 
 [![Ravi Teja's github stats](https://github-readme-stats.vercel.app/api?username=RaviTejaKomma&show_icons=true&hide_border=true&theme=gotham)](https://github.com/RaviTejaKomma/github-readme-stats)
 
