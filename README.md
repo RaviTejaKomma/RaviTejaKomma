@@ -5,11 +5,11 @@ Glad to see you here! This is my Github Profile and I breathe ideas and code her
 
 - 🔭 I'm currently working at Apxor.
 - ⚡ I'm passionate about envisioning and developing great products. 
-- 💬 I love discussing about Business ideas, Product development, Open Source. If you want to discuss any of them. You can reach out to me anytime.
+- 💬 I love discussing about Business ideas and Product development. If you want to discuss any of them. You can reach out to me anytime.
 - 📫 How to reach me: Find me at - [LinkedIn](https://www.linkedin.com/in/ravitejakomma/)
 
 
-[![Ravi Teja's github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaKomma&layout=compact&theme=gotham&exclude_repo=Apple-Logo-Detection,HackerEarth_MachineLearning_Challenges_Solutions,Complete-Python-3-Bootcamp,Twitter-Sentiment-Analysis,Youtube-Comments-Spam-Detection,Titanic-Kaggle,SMS_Spam_Detection&hide=HTML,CSS&langs_count=5)](https://github.com/RaviTejaKomma/github-readme-stats)
+[![Ravi Teja's github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaKomma&layout=compact&theme=gotham&hide=HTML,CSS&langs_count=5)](https://github.com/RaviTejaKomma/github-readme-stats)
 
 [![Ravi Teja's github stats](https://github-readme-stats.vercel.app/api?username=RaviTejaKomma&show_icons=true&hide_border=true&theme=gotham)](https://github.com/RaviTejaKomma/github-readme-stats)
 
