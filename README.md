@@ -13,8 +13,23 @@ Glad to see you here! This is my Github Profile and I breathe ideas and code her
 
 [![Ravi Teja's github stats](https://github-readme-stats.vercel.app/api?username=RaviTejaKomma&show_icons=true&hide_border=true&theme=gotham)](https://github.com/RaviTejaKomma/github-readme-stats)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/ravitejakomma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravitejakomma" height="30" width="30" /></a>
-    <a href="https://medium.com/@ravitejakomma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ravitejakomma" height="30" width="30" /></a>  
-    <a href="https://www.instagram.com/raviteja_komma/" target="blank"><img align="center" src="http://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raviteja_komma" height="30" width="30" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/ravitejakomma/" target="_blank">
+	<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@ravitejakomma" target="_blank">
+	<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/raviteja_komma/" target="blank">
+	<img alt="raviteja_komma" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/RaviTejaKomma/" target="blank">
+	<img alt="RaviTejaKomma" src="https://img.shields.io/badge/LeetCode-30302f?&style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/RaviTejaKomma" target="blank">
+	<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
