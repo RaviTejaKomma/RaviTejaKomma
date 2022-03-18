@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
-<h3 align="center">A Software Engineer and an Entrepreneur</h3>
+<h3 align="center">An Engineer, Entrepreneur & Teacher.</h3>
 
 Glad to see you here! This is my Github Profile and I breathe ideas and code here.
 
